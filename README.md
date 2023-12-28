@@ -6,7 +6,7 @@ MirrorMarvel is a powerful and versatile Python script designed for cloning webs
 
 Clone it from the repository 
 
-git clone git clone https://github.com/YourUsername/MirrorMarvel.git
+git clone https://github.com/Dooms-D4y/MirrorMarvel.git
 
 cd MirrorMarvel
 
